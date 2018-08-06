@@ -1,0 +1,7 @@
+<html>
+	<body>
+		<a href="https://www.baidu.com">
+		<input name="百度" type="button" value="百度"/>
+		</a>
+	</body>
+</html>
